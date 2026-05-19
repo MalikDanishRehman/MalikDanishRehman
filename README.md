@@ -119,23 +119,8 @@ I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalikDanishRehman&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikDanishRehman&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikDanishRehman&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 📈 Highlights
 
-- 🌍 **901+ LinkedIn followers · 500+ connections** — active in automation & AI community
-- ⏱️ Saving US agency clients **20+ hours/week** through custom n8n automation systems
 - 🤖 Built **HydroAI** FYP: production-grade marketplace with hybrid AI architecture
 - 🧠 Self-trained **T5 model** on a custom kitchen dataset with full RAG integration
 - 🚀 Deployed production apps — **Teachify** live on Vercel
