@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Automation Engineer · Python Developer · AI/ML Engineer · CRM Expert · AI Voice Engineer</b><br/>
-  📍 Karachi, Pakistan &nbsp;|&nbsp; Final Year CS @ Iqra University
+  📍 Karachi, Pakistan &nbsp;|&nbsp; Final Year CS  Iqra University
 </p>
 
 <p align="center">
