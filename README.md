@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Danish Rehman 👋</h1>
 
 <p align="center">
-  <b>Automation Engineer · Python Developer · AI/ML Engineer · CRM Expert · AI Voice Engineer</b><br/>
-  📍 Karachi, Pakistan &nbsp;|&nbsp; Final Year CS  Iqra University
+  <b>Automation Engineer · Python Developer · AI/ML Engineer</b><br/>
+  📍 Karachi, Pakistan &nbsp;|&nbsp; Final Year CS, Iqra University
 </p>
 
 <p align="center">
@@ -22,7 +22,10 @@
 ## 💫 About Me
 
 🔭 **I'm currently working on:**
-Building AI-powered automation workflows at **Pipeline IQ** — integrating Telegram bots, Notion API & Gravity Forms to help US agencies save **20+ hours/week** using n8n.
+Polishing **HydroAI**, my final-year AI-driven water supply marketplace, and actively looking for my next role as an Automation Engineer / AI-ML Developer.
+
+🟢 **Availability:**
+Open to new opportunities — Automation, Python/AI development, and full-stack roles.
 
 🤝 **I'm looking to collaborate on:**
 RAG pipelines, AI agents, n8n automation projects & full-stack apps using **Next.js + Supabase** or **Blazor + FastAPI**.
@@ -31,13 +34,26 @@ RAG pipelines, AI agents, n8n automation projects & full-stack apps using **Next
 Advanced LLM fine-tuning techniques and scaling AI microservices in production.
 
 🌱 **I'm currently learning:**
-Google Gemini function-calling, AI Voice Engineering, and CRM automation systems.
+Google Gemini function-calling, AI voice engineering, and advanced CRM automation systems.
 
 💬 **Ask me about:**
-n8n automation, Notion API integrations, RAG pipelines, BERT/T5 model training, Supabase, and building full-stack apps with Next.js or Blazor.
+n8n automation, Notion API integrations, RAG pipelines, BERT/T5 model training, CRM & AI voice automation (Vapi), Supabase, and building full-stack apps with Next.js or Blazor.
 
 ⚡ **Fun fact:**
-I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final Year Project — with a Python FastAPI chat agent, Gemini-powered review moderation, role-based dashboards & anti-manipulation rating scripts, all running on Supabase 💧🤖
+I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final Year Project — with a Python FastAPI chat agent, Gemini-powered review moderation, role-based dashboards & real-time delivery tracking, all running on Supabase 💧🤖
+
+---
+
+## 💼 Experience
+
+**Python Automation Developer** · Milya AI *(May 2026 – Jun 2026)* — Montreal, Canada (Remote)
+Automated receptionist & scheduling software with real-time cross-terminal sync.
+
+**Automation Engineer / Python Developer** · Pipeline IQ *(Oct 2025 – May 2026)* — Toronto, Canada (Remote)
+n8n workflows, CRM automation & AI voice models — helped US agencies save 20+ hrs/week.
+
+**Developer Intern** · Entrease AI *(Jun 2025 – Oct 2025)* — Canada (Remote)
+Next.js frontend, Supabase backend, and AI feature development.
 
 ---
 
@@ -49,14 +65,17 @@ I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 
-**AI / ML**
+**AI / ML & Voice**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-000000?style=flat-square&logoColor=white)
 
 **Frontend**
 
@@ -70,8 +89,10 @@ I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final 
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Dev Tools**
 
@@ -86,7 +107,7 @@ I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final 
 ## 🚀 Featured Projects
 
 ### 💧 HydroAI — AI-Driven Water Supply Marketplace *(Final Year Project)*
-> Full-stack multi-sided marketplace connecting consumers with water suppliers (bottles, RO plants, tankers). Features hybrid AI architecture: Python FastAPI microservice for Gemini function-calling chat agent + in-process .NET moderation pipeline with sentiment mismatch detection. Role-based dashboards for consumers, providers & admins backed by Supabase Postgres.
+> Full-stack multi-sided marketplace connecting consumers with water suppliers (bottles, RO plants, tankers). Hybrid AI architecture: Python FastAPI microservice for Gemini function-calling chat agent with RAG-style DB access, image-based complaint verification, and a sales prediction model — plus an in-process .NET moderation pipeline with sentiment mismatch detection. Role-based dashboards for consumers, suppliers & admins, backed by Supabase Postgres.
 
 **Stack:** ASP.NET Core 8 · Blazor Server · Supabase · FastAPI · Python · Google Gemini · C#
 
@@ -122,7 +143,8 @@ I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final 
 ## 📈 Highlights
 
 - 🤖 Built **HydroAI** FYP: production-grade marketplace with hybrid AI architecture
-- 🧠 Self-trained **T5 model** on a custom kitchen dataset with full RAG integration
+- 🧠 Self-trained a **T5 model** on a custom kitchen dataset with full RAG integration
+- ⚙️ Automated multi-service pipelines that saved client agencies **20+ hours/week**
 - 🚀 Deployed production apps — **Teachify** live on Vercel
 
 ---
