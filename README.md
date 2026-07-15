@@ -46,7 +46,7 @@ I built an entire AI-powered water supply marketplace (**HydroAI**) as my Final 
 
 ## 💼 Experience
 
-**Python Automation Developer** · Milya AI *(May 2026 – Jun 2026)* — Montreal, Canada (Remote)
+**Python Automation Developer** · Milya AI *(Mar 2026 – Jun 2026)* — Montreal, Canada (Remote)
 Automated receptionist & scheduling software with real-time cross-terminal sync.
 
 **Automation Engineer / Python Developer** · Pipeline IQ *(Oct 2025 – May 2026)* — Toronto, Canada (Remote)
@@ -103,53 +103,3 @@ Next.js frontend, Supabase backend, and AI feature development.
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### 💧 HydroAI — AI-Driven Water Supply Marketplace *(Final Year Project)*
-> Full-stack multi-sided marketplace connecting consumers with water suppliers (bottles, RO plants, tankers). Hybrid AI architecture: Python FastAPI microservice for Gemini function-calling chat agent with RAG-style DB access, image-based complaint verification, and a sales prediction model — plus an in-process .NET moderation pipeline with sentiment mismatch detection. Role-based dashboards for consumers, suppliers & admins, backed by Supabase Postgres.
-
-**Stack:** ASP.NET Core 8 · Blazor Server · Supabase · FastAPI · Python · Google Gemini · C#
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MalikDanishRehman/FYP-)
-
----
-
-### 🍳 Kitchen.AI
-> AI-powered kitchen assistant trained on a self-designed dataset using the T5 base model. Features a RAG pipeline for intelligent recipe & ingredient recommendations, FastAPI backend and .NET frontend.
-
-**Stack:** C# · Python · FastAPI · T5 Model · RAG · .NET Framework
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MalikDanishRehman/Kitchen.AI)
-
----
-
-### 🎓 Teachify — Udemy Clone
-> Full-stack e-learning platform with real-time database via Supabase. Live on Vercel.
-
-**Stack:** TypeScript · Next.js · PostgreSQL · Supabase
-
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://teachify-udemy-clonee.vercel.app/)
-
----
-
-### ⚙️ Notion Task Automator
-> Automated n8n workflow syncing Notion tasks with Google Calendar events & Telegram notifications — zero manual effort.
-
-**Stack:** JavaScript · n8n · Notion API · Google Calendar API · Telegram Bot API
-
----
-
-## 📈 Highlights
-
-- 🤖 Built **HydroAI** FYP: production-grade marketplace with hybrid AI architecture
-- 🧠 Self-trained a **T5 model** on a custom kitchen dataset with full RAG integration
-- ⚙️ Automated multi-service pipelines that saved client agencies **20+ hours/week**
-- 🚀 Deployed production apps — **Teachify** live on Vercel
-
----
-
-<p align="center">
-  <i>Open to collaborations on AI, automation & full-stack projects!</i><br/>
-  <a href="mailto:danishrehman6069@gmail.com">danishrehman6069@gmail.com</a> · <a href="https://www.linkedin.com/in/danish-rehman-a645872b5">LinkedIn</a>
-</p>
